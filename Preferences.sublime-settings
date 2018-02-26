@@ -26,10 +26,7 @@
 	[
 	],
 	"remember_open_files": false,
-	"rulers":
-	[
-		80
-	],
+	"rulers": [],
 	"tab_size": 2,
 	"theme": "Solarized Flat Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
@@ -37,5 +34,5 @@
 	"trim_trailing_white_space_on_save": true,
 	"update_check": false,
 	"use_tab_stops": true,
-	"wordWrap": false
+	"word_wrap": false
 }
