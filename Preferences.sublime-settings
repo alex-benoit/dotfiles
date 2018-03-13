@@ -20,13 +20,17 @@
 		"public/packs",
 		"coverage"
 	],
+	"font_size": 14,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"Vintage"
 	],
 	"remember_open_files": false,
-	"rulers": [],
+	"rulers":
+	[
+	],
 	"tab_size": 2,
 	"theme": "Solarized Flat Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
